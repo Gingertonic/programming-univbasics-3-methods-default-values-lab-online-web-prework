@@ -6,4 +6,4 @@ end
 
 meal_choice("carrots", "parsnips", "seitan")
 meal_choice("carrots", "parsnips")
-meal_choice("carrots")
+meal_choice("carrots", "salmon")
