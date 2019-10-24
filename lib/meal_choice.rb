@@ -5,3 +5,4 @@ def meal_choice(veg1, veg2, protein = "meat")
 end
 
 meal_choice("carrots", "parsnips", "seitan")
+meal_choice("carrots", "parsnips")
